@@ -15,19 +15,8 @@ Tokenization: MBAR Tokenizer for robust text processing and handling of agricult
 Quantization: Optimized model for streamlined deployment on your system, ensuring faster response times.
 Getting Started
 
-This section will depend on your chosen deployment method (web interface, mobile app, etc.). Here's a general outline:
 
-Installation:
-Provide clear instructions for installing any necessary dependencies (libraries, frameworks).
-Specify any system requirements (operating system, software versions).
-Running the Chatbot:
-Offer a step-by-step guide on how to launch the chatbot and interact with it.
-Include screenshots or diagrams if helpful for visual learners.
-Supported Platforms:
-Mention the platforms or environments where the chatbot can be used (e.g., web browser, mobile app).
-Disclaimer
 
-Include a disclaimer stating that the chatbot provides general information and recommendations. Users should consult with agricultural experts for specific guidance tailored to their unique circumstances.
 
 Future Developments:
 
